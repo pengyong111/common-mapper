@@ -1,0 +1,10 @@
+com\itcast\mapper\BaseDictMapper.class
+com\itcast\util\MyMapper.class
+com\itcast\service\CustomerService.class
+com\itcast\pojo\QueryVo.class
+com\itcast\pojo\BaseDict.class
+com\itcast\service\BaseDictService.class
+com\itheima\boot\util\NavigationTag.class
+com\itheima\boot\util\Page.class
+com\itcast\controller\PageController.class
+com\itcast\pojo\Customer.class
