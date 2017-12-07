@@ -1,0 +1,12 @@
+com\itheima\boot\dao\BaseDictDao.class
+com\itheima\boot\service\BaseDictService.class
+com\itheima\boot\dao\CustomerDao.class
+com\itheima\boot\pojo\BaseDict.class
+com\itheima\boot\controller\CustomerController.class
+com\itheima\boot\pojo\QueryVo.class
+com\itheima\boot\util\NavigationTag.class
+com\itheima\boot\service\CustomerService.class
+com\itheima\boot\service\impl\BaseDictServiceImpl.class
+com\itheima\boot\util\Page.class
+com\itheima\boot\service\impl\CustomerServiceImpl.class
+com\itheima\boot\pojo\Customer.class
